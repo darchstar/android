@@ -27,7 +27,8 @@
   <project path="device/htc/common" name="device/htc/common" />
   <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" remote="github" />
   <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" remote="github" />
-  <project path="device/htc/hero" name="CyanogenMod/android_device_htc_hero" remote="github" />
+  <project path="device/htc/hero" name="darchstar/android_device_htc_hero" remote="github" />
+  <project path="device/htc/heroc" name="darchstar/android_device_htc_heroc" remote="github" />
   <project path="device/htc/inc" name="koush/android_device_htc_inc" remote="github" />
   <project path="device/htc/passion" name="CyanogenMod/android_device_htc_passion" remote="github" />
   <project path="device/htc/passion-common" name="CyanogenMod/android_device_htc_passion-common" remote="github" />
@@ -198,7 +199,7 @@
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
-  <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" />
+  <project path="vendor/cyanogen" name="darchstar/android_vendor_cyanogen" remote="github" />
   <project path="vendor/qcom/mm-core" name="CyanogenMod/android_vendor_qcom_mm-core" remote="github" />
 
 </manifest>
